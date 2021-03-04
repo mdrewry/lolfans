@@ -3,7 +3,7 @@ Application to explore Riot APIs using React and Firebase
 
 Check out the app at https://lolfans.web.app/
 
-##Steps to get started locally:
+## Steps to get started locally:
 1) Clone to your computer and run npm install
 2) Sign up for a Riot Developer account at https://developer.riotgames.com/ (You can use your existing Riot account)
 3) Create a .env file at the root of the directory and put inside REACT_APP_RIOT_KEY_TEMP = "YOUR-API-KEY"
