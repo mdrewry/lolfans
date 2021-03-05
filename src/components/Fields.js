@@ -6,7 +6,12 @@ const CustomTextField = ({ value, setValue, required, placeholder }) => {
     setValue(e.target.value);
   };
   return (
-    <TextField value={value} onChange={handleChange} required={required} />
+    <TextField
+      value={value}
+      onChange={handleChange}
+      required={required}
+      placeholder={placeholder}
+    />
   );
 };
 export default CustomTextField;
