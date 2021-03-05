@@ -4,13 +4,15 @@
   flex-direction: column;
   align-items: center;
   font-size: calc(10px + 2vmin);
-  color: black;
   min-width: 100vw;
+}
+.text {
+  word-wrap: break-word;
 }
 .filler {
   flex-grow: 1;
 }
-.margin10 {
+.margin10Top {
   margin-top: 10px;
 }
 .padding20 {

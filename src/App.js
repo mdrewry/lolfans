@@ -33,6 +33,9 @@ function App() {
         variant: "outlined",
         position: "sticky",
       },
+      MuiPaper: {
+        square: true,
+      },
     },
   });
   const retrieveSummonerInfo = async () => {
@@ -70,7 +73,9 @@ function App() {
             {response.map((summoner, i) => (
               <div key={i} className="listItem">
                 {summoner.map((attribute, j) => (
-                  <Typography key={j}>{attribute}</Typography>
+                  <div className="margin10Top" key={j}>
+                    <Typography className="text">{attribute}</Typography>
+                  </div>
                 ))}
               </div>
             ))}
