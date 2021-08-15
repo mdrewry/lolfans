@@ -1,0 +1,11 @@
+https://lolfans.web.app/
+https://console.firebase.google.com/u/0/project/lolfans/overview
+https://developer.riotgames.com/
+https://aram.academy/FAQ
+https://aram.academy/users/na/Roho000
+https://riot-api-libraries.readthedocs.io/en/latest/libraries.html#javascript
+https://github.com/cnguy/kayn
+https://towardsdatascience.com/how-to-use-riot-api-with-python-b93be82dbbd6
+https://tracker.gg/lol
+
+Kayn Library
